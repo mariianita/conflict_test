@@ -1,2 +1,3 @@
 # conflict_test
-Hello everyone.
+
+Hello everyone. LOCAL
