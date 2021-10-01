@@ -1,2 +1,2 @@
 # conflict_test
-Hello everyone.
+Hello everyone. REMOTE
